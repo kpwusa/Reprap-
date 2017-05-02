@@ -25,5 +25,19 @@ included are
   
    3.3. redo wiring 
   
-   3.4. standard wiring clolrs
+   3.4. standard wiring convention 
+   
+   3.5. led lighting 
+   
+## Enclosure 
+
+  4.1. MDF enclosure design
+  
+## octopi
+
+  5.1. octopi 
+  
+  5.2. webcam
+  
+  5.3. remote kill
   
